@@ -28,7 +28,6 @@ Installation
 
 Clone the repository
 
-bashCopygit clone https://github.com/your-username/gen-ai-analytics-dashboard.git
 cd gen-ai-analytics-dashboard
 
 Install dependencies
